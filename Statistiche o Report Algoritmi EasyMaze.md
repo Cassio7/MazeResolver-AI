@@ -18,7 +18,7 @@ Ovviamente abbiamo una drastica variazione anche in base alla posizione dell'ent
 # 1. Report con stampa
 ## Matrice 5x5
 
-![alt text]([http://url/to/img.png](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/5x5.jpg))
+![alt text](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/5x5.jpg)
 ```
 [["S", "X", "X", "X", "X", "X"], 
 ["2", "1", "1", "1", "X", "1"], 
@@ -36,7 +36,7 @@ Size | Algorithm |Path cost| Time
 
 ## Matrice 10x10
 
-![[10x10.jpg]]
+![alt text](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/10x10.jpg)
 
 ```
 [['X', '2', 'E', 'X', '4', '1', '3', '3', '1', '3'], 
@@ -59,7 +59,7 @@ Size | Algorithm |Path cost| Time
 
 ## Matrice 20x20
 
-![[20x20.jpg]]
+![alt text](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/20x20.jpg)
 
 ```
 [['2', '1', '4', 'X', '1', '1', '3', '1', '4', '1', '2', 'X', 'X', '4', 'X', '3', '2', '3', '1', 'X'], 
@@ -102,9 +102,10 @@ Size | Algorithm |Path cost| Time
 10x10 | A* | 41 | 5.1381s
 20x20 | BFS | 46 | 24.7610s
 20x20 | DFS | 124 | 7.8200s
-20x20 | A* | 44 | 31.2845s 
+20x20 | A* | 44 | 31.2845s
 
-![[Algoritmi con stampa.png]]
+![alt text](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/Algoritmi%20con%20stampa.png)
+
 
 ---
 # 2. Report no stampa
@@ -187,7 +188,7 @@ Size | Algorithm |Path cost| Time
 100x100 | DFS | 936 | 20.4133s
 100x100 | A* | 206 | 239.7594s 
 
-![[Algoritmi no stampa.png]]
+![alt text](https://github.com/Cassio7/MazeResolver-AI/blob/main/img/Algoritmi%20no%20stampa.png)
 
 ---
 # Differenze tra i 2 metodi
