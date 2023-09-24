@@ -1,5 +1,6 @@
 # **Progetto Easy Maze**
 
+Link alla consegna del progetto: [PDF](EasyMaze.pdf)
 
 ## Informazioni generali:
 ### Legenda:
